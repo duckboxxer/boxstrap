@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Fishstrap are this GitHub repository and [fishstrap.app](https://www.fishstrap.app). Any other websites offering downloads or claiming to be us are not controlled by us.
+> Please do not download this project outside of Github, and do not trust anything that comes up in Google search fields, etc.
 
 <p align="center">
     <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
